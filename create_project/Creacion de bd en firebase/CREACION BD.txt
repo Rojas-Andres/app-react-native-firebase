@@ -7,4 +7,6 @@
 7. Nombre de la app
 8. Copiar esa parte subrayado en la imagen 8.
 9. Pegar en /database/firebase.js , solo en esa parte subrayada lo otro dejar intacto
- 
+10. pulsar en crear base de datos , luego pulsar cualquiera de los dos modos seleccionados
+	luego en la ubicacion en donde estara la bd y habilitar (Imagen12)
+11. Iniciar collecion (users) , id automatico y agregar los campos que se usan .
