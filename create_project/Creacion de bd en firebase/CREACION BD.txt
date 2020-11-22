@@ -1,0 +1,10 @@
+1. Registrarse y entrar en (ir consola) ver imagen 1
+2 . Añadir proyecto (imagen2)
+3. Nombre del proyecto (imagen3)
+4. Inhabilitar el google analytics ya que en este caso no se usara y pulsar en crear pryecto
+5. Esperar  (Imagen5)
+6. Pulsar en donde se ve subrayado en amarillo(Imagen6)
+7. Nombre de la app
+8. Copiar esa parte subrayado en la imagen 8.
+9. Pegar en /database/firebase.js , solo en esa parte subrayada lo otro dejar intacto
+ 

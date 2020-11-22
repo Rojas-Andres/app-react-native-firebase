@@ -1,0 +1,11 @@
+Entrar a cmd y instalar expo
+	expo install react-native-gesture-handler react-native-reanimated react-native-screens react-native-safe-area-context @react-native-community/masked-view
+Comandos a seguir: 	
+1 . npm audit fix
+
+Luego entrar por vscode e iniciar el proyecto :
+
+	expo start
+
+Interfaz(imagen6):
+	Luego pulsar run in web browser y eso te abrira una nueva ventana en donde se podra obervar el proyecto corriendo
